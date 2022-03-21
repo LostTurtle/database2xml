@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document>
+  <header>
+    <bankCode>8201</bankCode>
+    <month>202203</month>
+    <noOfCustomers>26415</noOfCustomers>
+  </header>
+  <customers>
+    <customer>post-request</customer>
+    <nationalId>post-request</nationalId>
+    <secondaryId>post-request</secondaryId>
+    <secondaryIdType>post-request</secondaryIdType>
+    <arabicName>post-request</arabicName>
+    <englishName/>
+    <birthDate>post-request</birthDate>
+    <birthGovCode>post-request</birthGovCode>
+    <gender>post-request</gender>
+    <residenceGovCode>post-request</residenceGovCode>
+    <nationality>post-request</nationality>
+  </customers>
+</document>
